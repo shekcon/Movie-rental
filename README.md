@@ -5,7 +5,7 @@ Movie rental API built as the final project for [Node.js: The Complete Guide to 
 
 Access the following link to check the API running on the cloud, hosted on [Heroku](https://www.heroku.com/):
 
-[https://arcane-tor-20765.herokuapp.com/api/genres](#)
+[Demo](#)
 
 ## How to Run
 
